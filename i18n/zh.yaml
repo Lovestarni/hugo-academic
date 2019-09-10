@@ -2,7 +2,7 @@
 
 - id: toggle_navigation
   translation: 切换导航
-  
+
 - id: table_of_contents
   translation: 目录
 
@@ -72,7 +72,7 @@
 
 # About widget
 
-- id: interests
+- id: research interests
   translation: 兴趣爱好
 
 - id: education
