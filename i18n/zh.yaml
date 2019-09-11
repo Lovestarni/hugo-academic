@@ -73,7 +73,7 @@
 # About widget
 
 - id: interests
-  translation: 兴趣爱好
+  translation: 研究兴趣
 
 - id: research_interests
   translation: 研究方向
